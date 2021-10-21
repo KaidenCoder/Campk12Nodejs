@@ -1,0 +1,29 @@
+.component{
+
+   
+}
+
+.scheme {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    background: rgba(0,0,0,0.1);
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background: rgba(0,0,0,0.1);
+}
+
+#delete{
+    color: white;
+    background: red;
+    padding: 10px;
+    
+}
+.divdelete{
+   margin: 20px; 
+   text-align: center;
+}
